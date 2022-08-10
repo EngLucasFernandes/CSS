@@ -1,0 +1,41 @@
+/*Seletores e Classes - CSS*/
+
+/*Seletor Universal*/
+
+* {
+
+    padding: 20px;
+
+}
+
+/*Seletor 'tag'*/
+
+h1, p {
+
+    color: red;
+
+}
+
+/*Seletor 'class'*/
+
+.big_text {
+
+    font-size: 60px;
+
+}
+
+.align_center {
+
+    text-align: center;
+
+}
+
+/*Seletor 'id'*/
+
+#yellow_color {
+
+    color: yellow;
+
+}
+
+
